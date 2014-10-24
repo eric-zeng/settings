@@ -1,0 +1,12 @@
+{
+	"detect_indentation": true,
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers": 80,
+	"scroll_past_end": true,
+	"trim_trailing_white_space_on_save": true
+}
